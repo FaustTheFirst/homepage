@@ -609,6 +609,15 @@
   .contacts li a.website {
     display: none;
   }
+  .contacts li a.fandom:hover {
+    color: rgb(71, 209, 243);
+  }
+  .contacts li a.twitter:hover {
+    color: rgb(25, 116, 235);
+  }
+  .contacts li a.instagram:hover {
+    color: rgb(255, 117, 4);
+  }
   .contacts li a .icon {
     fill: currentColor;
     height: 1.1428rem;
