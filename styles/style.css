@@ -336,7 +336,7 @@
     position: relative;
     display: inline-block;
     width: 6.25%;
-    padding-left: 1rem;
+    padding-left: 4rem;
     padding-right: 1rem;
     vertical-align: top;
   }
@@ -514,7 +514,7 @@
   }
   @media only screen and (max-width: 1199px) {
     .avatar-wrapper {
-      padding: 0;
+      padding: 0 3em;
     }
   }
   
