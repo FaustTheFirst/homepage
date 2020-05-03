@@ -1,0 +1,11 @@
+.language_img {
+    margin: 2px;
+    cursor: pointer;
+    opacity: .5;
+    width: 10%;
+}
+
+.language_img:hover,
+.language_img_active {
+    opacity: 1;
+}
