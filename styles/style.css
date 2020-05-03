@@ -336,7 +336,7 @@
     position: relative;
     display: inline-block;
     width: 6.25%;
-    padding-left: 1rem;
+    padding-left: 4rem;
     padding-right: 1rem;
     vertical-align: top;
   }
@@ -514,7 +514,7 @@
   }
   @media only screen and (max-width: 1199px) {
     .avatar-wrapper {
-      padding: 0;
+      padding: 0 3em;
     }
   }
   
@@ -608,6 +608,15 @@
   }
   .contacts li a.website {
     display: none;
+  }
+  .contacts li a.fandom:hover {
+    color: rgb(71, 209, 243);
+  }
+  .contacts li a.twitter:hover {
+    color: rgb(25, 116, 235);
+  }
+  .contacts li a.instagram:hover {
+    color: rgb(255, 117, 4);
   }
   .contacts li a .icon {
     fill: currentColor;
