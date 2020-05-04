@@ -999,7 +999,6 @@
   header {
     position: fixed;
     z-index: 1;
-    background: white;
     top: 0;
     left: 0;
     height: 2em;
