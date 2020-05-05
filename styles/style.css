@@ -629,7 +629,7 @@
   .contacts li a.instagram:hover {
     color: rgb(255, 117, 4);
   }
-  .contacts li a .icon {
+  .icon {
     fill: currentColor;
     height: 1.1428rem;
     vertical-align: text-bottom;
@@ -1053,14 +1053,3 @@
       margin-bottom: 0;
     }
   }
-.language_img {
-    margin: 2px;
-    cursor: pointer;
-    opacity: .5;
-    width: 10%;
-}
-
-.language_img:hover,
-.language_img_active {
-    opacity: 1;
-}
