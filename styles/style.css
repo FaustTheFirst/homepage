@@ -239,6 +239,7 @@
     margin-left: auto;
     margin-right: auto;
   }
+
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     article {
       width: 723px;
@@ -246,6 +247,7 @@
       margin-bottom: calc((100% - 723px) / 2);
     }
   }
+
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     article {
       width: 933px;
@@ -253,6 +255,7 @@
       margin-bottom: calc((100% - 933px) / 2);
     }
   }
+
   @media only screen and (min-width: 1200px) {
     article {
       width: 1127px;
@@ -286,11 +289,13 @@
     pointer-events: none;
     transition: border-color 0.2s ease-in-out;
   }
+
   @media only screen {
     .page:hover {
       box-shadow: 0 10px 100px 0 rgba(34, 36, 38, 0.3);
     }
   }
+
   @media only screen and (max-width: 767px) {
     .page,
     .page[style^="border-color"] {
@@ -501,6 +506,7 @@
   .grid > .row > [class*="mobile only"].column {
     display: none;
   }
+
   @media only screen and (max-width: 767px) {
     [class*="mobile only"].grid,
     .grid > [class*="mobile only"].row,
@@ -523,6 +529,7 @@
     display: block;
     flex: 1 0 auto;
   }
+
   @media only screen and (max-width: 1199px) {
     .avatar-wrapper {
       padding: 0 3em;
@@ -986,6 +993,7 @@
   .credits:hover {
     opacity: 1;
   }
+
   @media only screen and (max-width: 767px) {
     .credits {
       display: none;
@@ -1021,6 +1029,7 @@
     justify-content: center;
     z-index: 1;
   }
+
   @media only screen and (max-width: 767px) {
     header {
       height: auto;
@@ -1038,6 +1047,7 @@
       padding: 1em;
     }
   }
+  
   @media print {
     header,
     footer {
