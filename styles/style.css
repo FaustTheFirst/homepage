@@ -693,13 +693,10 @@
     outline: none;
   }
   .details > input:after {
-    content: " ";
-    border-top: 0.35em solid transparent;
-    border-bottom: 0.35em solid transparent;
-    border-left: 0.5em solid black;
+    content: "\01F91C";
     position: relative;
-    width: 0.5em;
-    height: 0.7em;
+    width: 1em;
+    height: 1em;
     cursor: pointer;
   }
   .details > input:checked {
