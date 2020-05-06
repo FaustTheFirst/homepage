@@ -14,4 +14,3 @@ Created by Bohdan Panashenko for ([Binary studio academy](https://academy.binary
 1. For information about "client" - ([binary-studio-academy repository](https://github.com/binary-studio-academy/stage-2-how-developers-work)).
 2. For the example page that become a base for this one - ([Volodymyr Kushnir](https://github.com/volodymyr-kushnir/volodymyrkushnir.com)). My respect! :+1:
 3. Icons made by Freepik from ([www.flaticon.com](https://www.flaticon.com/authors/freepik)).
-:mage:Hocus-pocus!
