@@ -7,6 +7,10 @@ This website is a resume for one very specific person - ([Ryu Hoshi](https://str
 # Preview
 ![Image alt](./images/preview.png)
 
+# Links
+1. On ([GitHub](https://faustthefirst.github.io/homepage/))
+2. On ([Zeit Now](https://homepage.faustthefirst.now.sh/))
+
 # About
 Created by Bohdan Panashenko for ([Binary studio academy](https://academy.binary-studio.com/ua/)), 2020.
 
